@@ -11,4 +11,14 @@ Welcome to the **Ping Pong Game**, a simple yet engaging C++ project created to 
 3. **Score Tracking**: Keeps track of each player’s score and displays it on the screen.
 4. **Controls**: Keyboard-based input for moving the paddles.
 
+---
+
+## Screenshots
+
+### Main Menu
+![Main Menu](menu.png)
+
+### Gameplay
+![Gameplay](gameplay.png)
+
 
