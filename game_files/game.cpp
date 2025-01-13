@@ -145,9 +145,6 @@ simulate_game(Input* input, float dt) {
 			draw_text("MULTIPLAYER", 20, -10, 1, 0xff0000);
 		}
 
-		draw_text("PONG TUTORIAL", -73, 40, 2, 0xffffff);
-		draw_text("WATCH THE STEP BY STEP TUTORIAL ON", -73, 22, .75, 0xffffff);
-		draw_text("YOUTUBE.COM/DANZAIDAN", -73, 15, 1.22, 0xffffff);
-
+		draw_text("PING PONG", -73, 40, 2, 0xffffff);
 	}
 }
